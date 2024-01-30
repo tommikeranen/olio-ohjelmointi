@@ -10,6 +10,12 @@ teht2/*.user
 teht3/build/
 teht3/*.user
 
+teht3_3/build/
+teht3_3/*.user
+
+teht3_4/build/
+teht3_4/*.user
+
 teht4/build/
 teht4/*.user
 
